@@ -74,8 +74,7 @@ Formulated in **Qiskit’s QuadraticProgram**.
 
 ---
 
-## 🚀 Setup Instructions (Google Colab / Local)
+##📌 Conclusion
 
-### 1. Install Dependencies
-```bash
-pip install qiskit qiskit-optimization matplotlib pandas numpy
+This project shows how Quantum Computing (via QAOA) can be applied to supply chain logistics.
+Even though current quantum hardware is limited, this serves as a proof of concept for future applications of quantum optimization in real-world VRPs.
