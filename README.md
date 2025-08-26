@@ -72,9 +72,9 @@ Formulated in **Qiskit’s QuadraticProgram**.
 - `VRP_QAOA.ipynb` → Jupyter notebook (Google Colab ready)  
 - `README.md` → this file  
 
+---
 
-##📌 Conclusion
+## 📌 Conclusion
 
 This project shows how Quantum Computing (via QAOA) can be applied to supply chain logistics.
 Even though current quantum hardware is limited, this serves as a proof of concept for future applications of quantum optimization in real-world VRPs.
----
